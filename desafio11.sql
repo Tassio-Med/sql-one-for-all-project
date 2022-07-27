@@ -11,7 +11,8 @@ SELECT
 FROM
     song AS s
 WHERE
-    s.song_name IN (
+    s.song_name
+    IN (
       "Dance With Her Own",
       "Let's Be Silly",
       "Magic Circus",
