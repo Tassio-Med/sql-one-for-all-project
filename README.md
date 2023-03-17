@@ -1,8 +1,33 @@
-
-# Bem-vindo ao repositório do projeto One For All!
+# Bem-vindo ao JS UNit Tests!
 
 Este projeto foi iniciando com a normalização da tabela Spotify Clone, seguindo com o preenchimento da tabela para executar queries e encontrar informações.
 
+
+#### As principais habilidades colocadas prática nesse projeto foram:
+
+* **Javascript**;
+* **SQL**;
+* **MySQL**;
+
+![javascript](https://img.shields.io/badge/javascript-yellow.svg?style=for-the-badge&logo=javascript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)  ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=) 
+
+
+
+## Instalação
+
+Para testar o projeto na sua máquina pessoal siga os seguintes passos:
+
+1. Clone o repositório:
+
+```sh
+git@github.com:Tassio-Med/sql-one-for-all-project.git
+```
+
+2. Instale os pacotes npm:
+
+```sh
+npm install
+```
 
 
 ## Tabela Spotify Clone
@@ -40,11 +65,16 @@ O banco de dados se baseia nas seguintes regras de negócio sendo capaz de recup
 ## EsLint
 
 Neste projeto foi utilizado o [ESLint](https://eslint.org/) para fazer a análise estática do código. Ajudando a garantir a qualidade do código de forma a tê-lo mais legível, de mais fácil manutenção e seguindo as boas práticas de desenvolvimento.
-
 ## Autor
 
 - [@tassio medeiros](https://github.com/Tassio-Med)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tassiomed98) 
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tassio.med?igshid=ZDdkNTZiNTM=) 
+
+
+
+
 
 É importante dar destaque que o projeto foi desenvolvido no  módulo de Back-end na [@trybe](https://github.com/betrybe).
-
